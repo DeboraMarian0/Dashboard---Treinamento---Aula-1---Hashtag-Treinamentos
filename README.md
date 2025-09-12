@@ -52,6 +52,8 @@ Os círculos de tamanhos variados facilitam a compreensão de:
 ---
 
 ## 📁 **Como Utilizar**
-1. **Faça o clone** ou download deste repositório.  
+1. Faça o download deste repositório.  
 2. Para interagir com o painel, é necessário ter o **Power BI Desktop** instalado.  
 3. **Abra o arquivo `.pbix`** no Power BI Desktop.
+
+📌 *Este projeto foi desenvolvido para fins de estudo e prática em análise de dados e visualização no Power BI.*  
