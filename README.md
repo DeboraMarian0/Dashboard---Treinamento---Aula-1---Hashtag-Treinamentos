@@ -5,13 +5,13 @@ O objetivo foi aplicar os conhecimentos adquiridos na ferramenta para criar um *
 
 ---
 
-## 🚀 **Sobre o Dashboard**
+## **Sobre o Dashboard**
 O dashboard foi projetado para oferecer uma **visão consolidada e estratégica** sobre o desempenho comercial de uma empresa.  
 Ele centraliza as principais **métricas de vendas**, permitindo análises por diferentes perspectivas, como **tempo, geografia, marcas e produtos**.
 
 ---
 
-## 📊 **Observações e Análises do Painel**
+## **Observações e Análises do Painel**
 O painel é composto por diversos elementos visuais que, juntos, **contam a história dos dados de vendas**:
 
 ### **1. Indicadores Principais (KPIs)**
@@ -46,7 +46,7 @@ Os círculos de tamanhos variados facilitam a compreensão de:
 
 ---
 
-## 🛠️ **Ferramentas Utilizadas**
+## **Ferramentas Utilizadas**
 - **Microsoft Power BI:** Ferramenta principal para **tratamento dos dados**, **criação dos cálculos (medidas DAX)** e **desenvolvimento das visualizações**.
 
 ---
